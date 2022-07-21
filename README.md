@@ -1,2 +1,0 @@
-# InteligenciaComputacional
-Trabajo practico
